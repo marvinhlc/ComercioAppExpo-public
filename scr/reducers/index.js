@@ -1,0 +1,10 @@
+//CATALOGO DE PRODUCTOS
+export {default as catalogo} from './catalogo'
+export {default as categorias} from './categorias'
+export {default as galeria} from './galeria'
+export {default as shoppingcart} from './shoppingcart'
+export {default as autokeys} from './autokeys'
+export {default as user} from './user'
+export {default as cuenta} from './cuenta'
+export {default as token} from './token'
+export {default as sistema} from './sistema'
